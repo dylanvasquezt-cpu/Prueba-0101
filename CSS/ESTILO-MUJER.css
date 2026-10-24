@@ -1,0 +1,38 @@
+.promo-section{
+    background-color: rgb(14, 13, 13);
+    padding: 80px;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+}
+.content-wrapper{
+    max-width: 900px;
+}
+.subtitle{
+    color: blueviolet;
+    font-size: 20px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    margin-bottom: 20px;
+
+
+}
+h1{
+    color: darksalmon;
+}
+p{
+    color: rgb(233, 233, 233);
+
+}
+
+.footer-row {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    flex-wrap: nowrap;
+    gap: 25px;
+}
+
+.footer-link {
+    flex: 1;
+    min-width: 0;
+}

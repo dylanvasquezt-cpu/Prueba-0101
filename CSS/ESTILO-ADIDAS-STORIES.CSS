@@ -1,0 +1,126 @@
+.promo-section{
+    background-color: rgb(252, 252, 252);
+    padding: 80px;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+}
+
+.P{
+    background-color: black;
+}
+
+
+.texto-1{
+    color: rgb(255, 255, 255);
+    text-align: left;
+}
+
+.linea-1{
+    color: rgb(255, 255, 255);
+    text-align: left;
+}
+
+.content-wrapper{
+    width: 100%;
+
+}
+
+.subtitle{
+    color: black;
+    font-size: 100px;
+     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    margin-bottom: 20px;
+}
+
+.subtitle-2{
+    color: rgb(94, 94, 94);
+    
+}
+
+.subtitle-3{
+    color: rgb(94, 94, 94);
+    font-size: 80%;
+}
+
+
+.parrafo-1{
+    font-size: 100%;
+    justify-content: left;
+}
+
+.parrafo-2{
+    font-size: 80%;
+    font-family: serif;
+}
+
+
+.parrafo-3{
+    font-size: 85%;
+    font-family: serif;
+    color: aliceblue;
+
+
+}
+
+.parrafo-4{
+    font-size: 80%;
+    font-family: serif;
+
+}
+
+
+.parrafo-5{
+    font-size: 80%;
+    font-family: serif;
+}
+
+.parrafo-6{
+    font-size: 70%;
+    font-family: serif;
+}
+
+
+.texto-2{
+    font-size: 70%;
+    font-family: serif;
+}
+
+.texto-3{
+    font-size: 70%;
+    font-family: serif;
+}
+
+.texto-4{
+    font-size: 70%;
+    font-family: serif;
+}
+
+.h1{
+    color: rgb(0, 0, 0);
+}
+
+
+.h2{
+    color: rgb(255, 255, 255);
+}
+
+
+
+
+
+
+
+
+.footer-row {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    flex-wrap: nowrap;
+    gap: 25px;
+}
+
+.footer-link {
+    flex: 1;
+    min-width: 0;
+}
